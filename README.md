@@ -1,6 +1,8 @@
 # Diagnosis of Parkinson’s Disease from Recorded Vocal Information
 
+### Names: Jong Hoon Park, Seongwon Kim
 ### 24787 AI for Engineers Project
+
 
 #### Topic
 This project applies machine learning to diagnose Parkinson's disease (PD) and estimate the severity of the diagnosed patients based on the Unified Parkinson's Disease  Rating Scale (UPDRS). The dataset includes various types of vocal features from recorded phone calls with the subjects. The dataset was publicly available from UCI ML    repository and were cited below.
